@@ -2,15 +2,597 @@
     "data": [
         {
             "sno": "1",
-            "name": " Virus Research and Diagnostic Laboratory, STNM Hospital, Gangtok ",
+            "name": "ICMR National Institute of Virology, Pune",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "2",
-            "name": " Intermediate Reference Laboratory, STNM Hospital, Gangtok",
+            "name": " Seth GS Medical College KEM Hospital, Mumbai ",
             "type": "Government",
-            "test_type": "True NAD"
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " Kasturba Hospital for Infectious Diseases, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " National Institute of Virology Field Unit, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Armed Forces Medical College, Pune",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " BJ Medical College, Pune",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " Command Hospital SC , Pune",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " Indira Gandhi Govt Medical College, Nagpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " All India Institute of Medical Sciences, Nagpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " Govt Medical College, Nagpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " Nagpur Veterinary College, MAFSU, Nagpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " Intermediate Reference Laboratory, Nagpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": " Grant Medical College Sir JJ Hospital, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " Govt Medical College, Aurangabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " V M Govt Medical College, Solapur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "16",
+            "name": " Haffkine Institute, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "17",
+            "name": " Shree Bhausaheb Hire Govt Medical College, Dhule",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "18",
+            "name": " Govt Medical College, Miraj",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "19",
+            "name": " Govt Medical College, Akola ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "20",
+            "name": " National Institute for Research on Reproductive Health, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "21",
+            "name": " Rajiv Gandhi Medical College CSM Hospital, Kalwa, Thane, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "22",
+            "name": " ICMR National AIDS Research Institute, Pune",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "23",
+            "name": " Swami Ramanand Teerth Marathwada University, Nanded",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "24",
+            "name": " Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "25",
+            "name": " Vilasrao Deshmukh Govt Institute of Medical Sciences, Latur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "26",
+            "name": " INHS Ashvini, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "27",
+            "name": " Tata Memorial Centre ACTREC, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "28",
+            "name": " Tata Memorial Hospital, Mumbai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "29",
+            "name": " National Centre for Cell Sciences, Pune",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "30",
+            "name": " National Environmental Engineering Research Institute, Nagpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "31",
+            "name": " Sant Gadge Baba Amravati University, Amravati",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "32",
+            "name": " RCSM Govt Medical College, Kolhapur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "33",
+            "name": " Model Rural Health Research Unit MRHRU , Sub District Hospital, Agar, Dahanu, Palghar ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "34",
+            "name": " Indian Institute of Science Education and Research IISER , Pune",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "35",
+            "name": " Govt Medical College, Jalgaon",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "36",
+            "name": " District General Hospital, Ahmednagar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "37",
+            "name": " Government Medical College, Baramati",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "38",
+            "name": " Govt Medical College, Chandrapur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "39",
+            "name": " Govt Medical College, Yavatmal",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "40",
+            "name": " Swami Ramanand Teerth Rural Government Medical College, Ambajogai",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "41",
+            "name": " Government Medical College, Gondia",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "42",
+            "name": " Agharkar Research Institute, Pune",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "43",
+            "name": " District General Hospital, Ratnagiri",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "44",
+            "name": " Dr Shankarrao Chavan Govt Medical College, Nanded ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "45",
+            "name": " Civil Surgeon, District Hospital, Parbhani",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "46",
+            "name": " District Hospital, Satara",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "47",
+            "name": " Daga Memorial Government Women Hospital, Nagpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "48",
+            "name": " Navi Mumbai Municipal Corporation General Hospital, F R U Vashi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "49",
+            "name": " District General Hospital, Gadchiroli",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "50",
+            "name": " Darasha Maternity Home, Solapur Municipal Corporation, Solapur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "51",
+            "name": " District Hospital, Amravati",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "52",
+            "name": " Sub district Hospital, Shahapur, Thane ",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "53",
+            "name": " Intermediate Reference Laboratory, Pune",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "54",
+            "name": " Govt Medical College, Baramati",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "55",
+            "name": " Lokmanya Tilak Municipal General Hospital and Medical College, Mumbai",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "56",
+            "name": " Molecular Diagnostic Laboratory, District Hospital, Sindhudurg ",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "57",
+            "name": "Suburban Diagnostics India Pvt Ltd , , T, rd Floor, Sunshine Bld , Andheri W , Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "58",
+            "name": " Metropolis Healthcare Ltd, Unit No , th Floor, Commercial Building , Kohinoor Mall, Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "59",
+            "name": " Sir H N Reliance Foundation Hospital and Research Centre, Molecular Medicine, Reliance Life Sciences Pvt Ltd , R , TTC Industrial Area, Rabale, Navi Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "60",
+            "name": " SRL Limited, Prime Square Building, Plot No , Gaiwadi Industrial Estate, SV Road, Goregaon, Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "61",
+            "name": " A G Diagnostics Pvt Ltd, Nayantara Building, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "62",
+            "name": " Kokilaben Dhirubhai Ambani Hospital Laboratory, Four Bungalows, Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "63",
+            "name": " InfeXn Laboratories Private Limited, A , Therelek Compound, Road No , Wagle Industrial Estate, Thane W ",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "64",
+            "name": " iGenetic Diagnostics Pvt Ltd, Krislon House, Andheri East, Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "65",
+            "name": " Sahyadri Speciality Labs, Plot No , S No , Lokmanya Colony, Kothrud, Pune ",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "66",
+            "name": " Metropolis Healthcare Limited, Construction House, B, Bhandarkar Institute Road, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "67",
+            "name": " SRL Diagnostics Dr Avinash Phadke SRL Diagnostics Pvt Ltd , Mahalaxmi Engineering Estate, nd Floor, L J Cross Road No , KJ Khilnani High School, Mahim West , Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "68",
+            "name": " Department of Laboratory Medicine P D Hinduja National Hospital and Medical Research Centre, Veer Savarkar Marg, Mahim, Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "69",
+            "name": " Vaidya Lab Thane, Unit of Millenium Special Lab Pvt Ltd, Odyssey Park, nd Floor, , Raghunath Nagar, Wagle Estate, Thane",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "70",
+            "name": " Genepath Diagnostics India Pvt Ltd, th Floor, Above Phadke Hospital, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "71",
+            "name": " Daignostic Molecular Laboratory, Dept of Microbiology, Dr Vasantrao Pawar Medical College Hospital Research Centre, Vasantdada Nagar, Adgaon, Nashik",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "72",
+            "name": " Dept of Lab Medicine, Dr Balabhai Nanavati Hospital, Swami Vivekananda Road, Mumbai ",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "73",
+            "name": " Krsnaa Diagnostics Pvt Ltd, Lt Jayabai Nanasaheb Sutar Maternity Home, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "74",
+            "name": " Dhruv Pathology and Molecular Diagnostic Lab, Third Floor, Aditya Enclave, Central Bazaar Road, Ramdaspeth, Nagpur",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "75",
+            "name": " Dept of Molecular Biology Genetics, Krishna Institute of Medical Sciences, Karad, Satara",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "76",
+            "name": " Lab Services, Ayugen Biosciences Pvt Ltd, , Shivajinagar, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "77",
+            "name": " MGM Medical College and Hospital, Navi Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "78",
+            "name": " Ruby Hall Clinic, Dept of Laboratory, Grant Medical Foundation, , Sassoon Road, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "79",
+            "name": " D Y Patil Medical College, Kolhapur",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "80",
+            "name": " Metropolis Healthcare Limited, Shop No , Ground Floor, Ahilya Building, Savarkar Marg, Thane West, Thane",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "81",
+            "name": " Molecular Diagnostic Laboratory, Department of Pathology, LMMF s Deenanath Mangeshkar Hospital and Research Center, Erandwane, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "82",
+            "name": " Datar Cancer Genetics Ltd, F , D Road,",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "83",
+            "name": "Ambad MIDC, Nashik ",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "84",
+            "name": " Apoorva Diagnostic and Health Care, Bhaktivedanta Hospital and Research Institute, Bhaktivedanta Swami MArg, Sector , Mira Bhayandar",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "85",
+            "name": " Dr DY Patil Medical College Hospital and Research Centre, Pimpri, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "86",
+            "name": " Molecular Laboratory, Jaslok Hospital and Research Centre, , Dr Deshmukh Marg, Peddar Road, Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "87",
+            "name": " NM Medical, Harchandrai House, Above Axis Bank, nd Floor, Maharshi Karve Road, Marine Lines E , Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "88",
+            "name": " Bharati Vidyapeeth Deemed to be University Medical College, Pune ",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "89",
+            "name": " Qualilife Diagnostics, Balaji Arcade, st Floor, A, Netaji Subhash Road, Mulund W , Mumbai",
+            "type": "Private",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "90",
+            "name": " Rural Medical College, Pravara Institute of Medical Sciences, Loni, Ahmednagar",
+            "type": "Private",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "91",
+            "name": " Clinicare Speciality Laboratory Pvt Ltd ,Lata Mangeshkar Hospital, Nagpur ",
+            "type": "Private",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "92",
+            "name": " Sunflower Lab Diagnostic Center, Keshav Kunj, Marve Road, Malad West, Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "93",
+            "name": " Aditya Birla Memorial Hospital Laboratory, Aditya Birla Marg, Chinchwad, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "94",
+            "name": " Dr Jariwala Lab Diagnostics LLP, st Floor, Rasraj Heights, Rokadia Lane, Off Mandpeshwar Road, Borivli W , Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "95",
+            "name": " Su Vishwas Diagnostic Lab, st floor Midas height, Ramdaspeth, Nagpur",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "96",
+            "name": " Jupiter Lifeline Hospitals Limited, Pune",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "97",
+            "name": " Kingsway Hospitals A Unit of SPANV Medisearch Lifesciences Pvt Ltd , , Kingsway Road, Nagpur",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "98",
+            "name": " Jupiter Hospital, Eastern Express Highway, Thane West",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "99",
+            "name": " Dr Ajay Shah s Pathology Lab Microbiology Reference Center, st Floor, Amidrashti, Opposite Manav Kalyan Kendra, S V Road, Dahisar East Mumbai",
+            "type": "Private",
+            "test_type": "CB NAAT"
         }
     ]
 }
